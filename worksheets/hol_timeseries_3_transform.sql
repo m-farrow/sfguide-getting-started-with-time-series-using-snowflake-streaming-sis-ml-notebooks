@@ -84,3 +84,5 @@ FROM HOL_TIMESERIES.TRANSFORM.DT_TS_TAG_READINGS READ;
 ##############################*/
 
 /*##### TRANSFORM SCRIPT #####*/
+
+select * from 
